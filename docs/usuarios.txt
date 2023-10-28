@@ -1,0 +1,6 @@
+Candy,Locon,candy@gmail.com,654321,Votante
+Oliver,Locon,oliver@gmail.com,123456,Administrador
+Selvin,Locon,selvin@gmail.com,123456,RegistradorDeVotantes
+Meibin,Locon,meibin@gmail.com,123456,AuditorGerson,Gonzales,gerson@gmail.com,1234556,Auditor
+Jose,Avila,jose@gmail.com,123456,RegistradorDeVotante
+melqui,perez,melqui@gmail.com,123456,Administrador
